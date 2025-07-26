@@ -9,6 +9,9 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/vtcs.m3u8
 #EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 3
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+
 
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="SPORTS;BOLA", FOX Sports 3
