@@ -2402,3 +2402,11 @@ http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5066/default_ott
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="MALAY SPORTS;SPORTS;BOLA" tvg-id="beINSports3" tvg-name="beINSports3", beIN Sports 3 🇲🇾
 http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2705/default_ott.mpd
+
+#EXTINF:-1 group-title="ANAK-ANAK" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20250615_180354.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Larva_logo.png/revision/latest?cb=20181221111435",LARVA 1
+https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCinizcWbUKiukC8W1YO3SvQ
+
+
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzHcZ7RSjHRH6m4A_-IsoDdcVPN6dtl5mG3wp1zaTEeqgBH1zxrqxcugS&s=10",LARVA 2
+https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCCWOwU13TW-yL_SkOFgaKlA
+
