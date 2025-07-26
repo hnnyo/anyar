@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="" group-title="BOLA", SuperSport 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss1.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GolazoNetwork.png" group-title="SPORTS;BOLA", CBS Sports Golazo
+http://user.scalecdn.co:8080/live/15453666/17668852/660925.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BOLA", SuperSport 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss2.m3u8
 
