@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2800000
 http://home-tv.online/live/admin/Ilhamkuy10/304.m3u8
