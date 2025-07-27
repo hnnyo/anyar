@@ -56,13 +56,15 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss3.m3u8
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="MALAY SPORTS;BOLA",Astro Premier League
-https://events3.liveboxpro.com/event/125.m3u8
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
+#https://events3.liveboxpro.com/event/125.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
 #EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="MALAY SPORTS;BOLA",Astro Premier League 2
-https://events3.liveboxpro.com/event/126.m3u8
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl2.m3u8
+#https://events3.liveboxpro.com/event/126.m3u8
 
 #EXTINF:-1 group-title="AFF U23" tvg-logo="https://enc-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 (ASTRO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -2201,7 +2203,8 @@ https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
 https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="MALAY SPORTS;SPORTS", Astro Badminton
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/bdmn.m3u8
+#https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="MALAY SPORTS;SPORTS",Astro Arena1
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
@@ -2216,7 +2219,8 @@ https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="MALAY SPORTS;SPORTS",Astro Grandstand
-https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/grnds.m3u8
+#https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="MALAY SPORTS;SPORTS",Astro Football
 https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
@@ -2225,7 +2229,8 @@ https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="SPORTS;MotoGP",Sky Sport MotoGP
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ssmgp.m3u8
+#https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
 -----arena sport-----
 #EXTINF:-1 tvg-id="14724" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORTS;BOLA" ,Arena Sport 1 HR
