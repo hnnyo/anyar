@@ -30,6 +30,9 @@ https://hakim45.serv00.net/smarttv.php?id=NetTV
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", SCTV OK
 https://hakim45.serv00.net/smarttv.php?id=SCTV
 
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", SCTV 2 OK
+http://103.180.118.5:9981/stream/channelid/976701458
+
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS 7 OK
 https://hakim45.serv00.net/smarttv.php?id=Trans7_eko
 
