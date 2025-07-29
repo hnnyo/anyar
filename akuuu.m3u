@@ -4,16 +4,19 @@
 http://103.180.118.5:9981/stream/channelid/290871490
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", GTV OK
-https://hakim45.serv00.net/smarttv.php?id=Gtv
+http://103.180.118.5:9981/stream/channelid/603010024
+#https://hakim45.serv00.net/smarttv.php?id=Gtv
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", RCTI OK
-https://hakim45.serv00.net/smarttv.php?id=Rcti
+http://103.180.118.5:9981/stream/channelid/675124063
+#https://hakim45.serv00.net/smarttv.php?id=Rcti
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", INDOSIAR OK
 https://hakim45.serv00.net/smarttv.php?id=Indosiar
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", KOMPAS TV OK
-https://hakim45.serv00.net/smarttv.php?id=Kompass
+http://103.180.118.5:9981/stream/channelid/716321720
+#https://hakim45.serv00.net/smarttv.php?id=Kompass
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", ANTV OK
 https://hakim45.serv00.net/smarttv.php?id=Antv
@@ -22,7 +25,8 @@ https://hakim45.serv00.net/smarttv.php?id=Antv
 https://hakim45.serv00.net/smarttv.php?id=Mnctv
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", METRO TV OK
-https://hakim45.serv00.net/smarttv.php?id=metrotv_eko
+http://103.180.118.5:9981/stream/channelid/1640891347?profile=pass
+#https://hakim45.serv00.net/smarttv.php?id=metrotv_eko
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MDTV OK
 https://hakim45.serv00.net/smarttv.php?id=NetTV
@@ -88,7 +92,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/
 #EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", Moji a
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/mji.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", Moji b
+EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", Moji b
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/mji2.m3u8
 
 
