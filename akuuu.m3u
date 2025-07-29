@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", INDOSIAR 2 OK
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", INDOSIAR 2 OK
 http://103.180.118.5:9981/stream/channelid/290871490
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", GTV OK
@@ -11,7 +11,7 @@ http://103.180.118.5:9981/stream/channelid/603010024
 http://103.180.118.5:9981/stream/channelid/675124063
 #https://hakim45.serv00.net/smarttv.php?id=Rcti
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", INDOSIAR OK
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", INDOSIAR OK
 https://hakim45.serv00.net/smarttv.php?id=Indosiar
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", KOMPAS TV OK
@@ -31,10 +31,10 @@ http://103.180.118.5:9981/stream/channelid/1640891347?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MDTV OK
 https://hakim45.serv00.net/smarttv.php?id=NetTV
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", SCTV OK
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", SCTV OK
 https://hakim45.serv00.net/smarttv.php?id=SCTV
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", SCTV 2 OK
+#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", SCTV 2 OK
 http://103.180.118.5:9981/stream/channelid/976701458
 
 #EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS 7 OK
@@ -65,10 +65,10 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/vltv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23", SCTV Dig
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/vtcs.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 2
+EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 3
+EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 3
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
 
