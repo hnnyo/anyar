@@ -14,47 +14,47 @@ https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", INDOSIAR 2 OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", INDOSIAR 2 OK
 http://103.180.118.5:9981/stream/channelid/290871490
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", GTV OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", GTV OK
 http://103.180.118.5:9981/stream/channelid/603010024
 #https://hakim45.serv00.net/smarttv.php?id=Gtv
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", RCTI OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", RCTI OK
 http://103.180.118.5:9981/stream/channelid/675124063
 #https://hakim45.serv00.net/smarttv.php?id=Rcti
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", INDOSIAR OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", INDOSIAR OK
 https://hakim45.serv00.net/smarttv.php?id=Indosiar
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", KOMPAS TV OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", KOMPAS TV OK
 http://103.180.118.5:9981/stream/channelid/716321720
 #https://hakim45.serv00.net/smarttv.php?id=Kompass
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", ANTV OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", ANTV OK
 https://hakim45.serv00.net/smarttv.php?id=Antv
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MNCTV OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MNCTV OK
 https://hakim45.serv00.net/smarttv.php?id=Mnctv
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", METRO TV OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", METRO TV OK
 http://103.180.118.5:9981/stream/channelid/1640891347?profile=pass
 #https://hakim45.serv00.net/smarttv.php?id=metrotv_eko
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MDTV OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MDTV OK
 https://hakim45.serv00.net/smarttv.php?id=NetTV
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", SCTV OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", SCTV OK
 https://hakim45.serv00.net/smarttv.php?id=SCTV
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", SCTV 2 OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", SCTV 2 OK
 http://103.180.118.5:9981/stream/channelid/976701458
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS 7 OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS 7 OK
 https://hakim45.serv00.net/smarttv.php?id=Trans7_eko
 
-#EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS TV OK
+EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS TV OK
 https://hakim45.serv00.net/smarttv.php?id=Transtv
 
 
@@ -70,13 +70,13 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sports Premier League
+EXTINF:-1 tvg-logo="" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sports Premier League
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sspl.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", VOLI TV
+EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", VOLI TV
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/vltv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23", SCTV Dig
+EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23", SCTV Dig
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/vtcs.m3u8
 
 EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 2
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl2.m3u8
 #https://events3.liveboxpro.com/event/126.m3u8
 
-#EXTINF:-1 group-title="AFF U23" tvg-logo="https://enc-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 (ASTRO)
+EXTINF:-1 group-title="AFF U23" tvg-logo="https://enc-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 (ASTRO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
@@ -156,7 +156,7 @@ https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&ty
 EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig
 http://tvking.xyz:8080/Pecijay952/abc12345/5147
 
-#EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig 2
+EXTINF:-1 tvg-id="SCTV.my.id" tvg-name="SCTV ᴴᴰ" tvg-logo="https://iili.io/JMp3iiX.png" group-title="AFF U23", SCTV Dig 2
 http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
 
 --
@@ -167,7 +167,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 ----
 
 
-#EXTINF:-1 group-title="AFF U23" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",Live a
+#EXTINF:-1 group-title="SPORTS;BOLA" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",M Live 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -178,16 +178,10 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 --+
 
 
-#EXTINF:-1 group-title="AFF U23" tvg-id="" tvg-logo="https://iili.io/FWIZOmP.md.png",Live b
+#EXTINF:-1 group-title="SPORTS;BOLA" tvg-id="" tvg-logo="https://iili.io/FWIZOmP.md.png",M Live 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-
-#EXTINF:-1 group-title="AFF U23" tvg-id="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6d/Logo_Bayon_Television.png", BAYON TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w321706025.m3u8
-
 
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://www.open-epg.com/files/indonesia4.xml" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="1. INDONESIA",Trans 7 F
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -215,6 +209,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;BUNDESLIGA", SPORTSTARS 2 B
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
 ------
 #KODIPROP:contentlookup=False
@@ -1328,7 +1325,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 https://perfecttv.net:443/perfecttv/perfecttv/1604
 -----
 
-#EXTINF:-1 group-title="1. INDONESIA;BRI LIGA 1;AFF U23" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar (bola)
+#EXTINF:-1 group-title="1. INDONESIA;BRI LIGA 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar (bola)
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 
 
@@ -2539,6 +2536,7 @@ https://ott.udptv.net/stream/iptv/tsn4/master.m3u8?u=discord.gg/civ4&p=b48a689ee
 #EXTINF:-1  tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" group-title="SPORTS",TSN 5
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjU1MDM5ZjMzY2FjLTY0Y2ItMDJkNC04MDM4LWVjYWNlNTEx/master.m3u8
 https://ott.udptv.net/stream/iptv/tsn5/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
 
 
 
