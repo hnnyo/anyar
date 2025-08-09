@@ -91,7 +91,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19347&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=18994&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/downrcti-4.png" group-title="FUTSAL NUSANTARA", FUTSAL NUSANTARA
+EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/downrcti-4.png" group-title="FUTSAL NUSANTARA", FUTSAL NUSANTARA
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://midcache.rctiplus.id/live/futsal.m3u8
 
@@ -979,7 +979,7 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;BUNDESLIGA",Soccer Channel
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;BUNDESLIGA;FUTSAL NUSANTARA",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -2932,6 +2932,7 @@ https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|user-agent=Mozill
 https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://truevisions.co.th/static/b5c591af-060c-48ea-91ec-e1a230818c27.png" group-title="MALAY SPORTS",TRUE BEIN SPORTS 3
 https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-
+
 
 
 
