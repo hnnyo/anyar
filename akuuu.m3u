@@ -237,7 +237,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/mji3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOLA", SuperSport 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GolazoNetwork.png" group-title="SPORTS;BOLA", CBS Sports Golazo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GolazoNetwork.png" group-title="SPORTS;BOLA;COPPA ITALIA", CBS Sports Golazo
 http://user.scalecdn.co:8080/live/15453666/17668852/660925.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOLA", SuperSport 2
@@ -379,7 +379,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
  
-#EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-logo="https://iili.io/d93wOtS.png" group-title="SPORTS",Mediaset 1
+#EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-logo="https://iili.io/d93wOtS.png" group-title="SPORTS;BOLA;COPPA ITALIA",Mediaset 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2812,6 +2812,9 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYPC20bYqGC8oZTVIXI8wb5p_S7GX6Uap6w&usqp=CAU" group-title="SPORTS;BOLA;COPPA ITALIA",SPOTV PRIME 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559|Referer=https://kakotv.com/
 
 
 
