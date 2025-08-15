@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SKY SPORTS 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SKY SPORT 8
 https://a1xs.vip/700008
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SKY SPORTS PREMIERE LEAGUE
@@ -2703,6 +2703,47 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium433
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium434
 
 
+
+#EXTINF:-1  tvg-id="Sky.Sport.1.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 1 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.2.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 2 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.3.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 3 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.4.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 4 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.5.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 5 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.6.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 6 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.7.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 7 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.8.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 8 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.9.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-9-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport 9 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8
+#EXTINF:-1  tvg-id="Sky.Sport.Select.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-select-hz-nz.png?raw=true" group-title="SPORTS;BOLA",Sky Sport Select NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium587/mono.m3u8
 
 
 
