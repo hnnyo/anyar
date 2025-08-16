@@ -249,14 +249,14 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss3.m3u8
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="MALAY SPORTS;BOLA",Astro Premier League
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="MALAY SPORTS;BOLA;LIGA INGGRIS",Astro Premier League
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
 #https://events3.liveboxpro.com/event/125.m3u8
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="MALAY SPORTS;BOLA",Astro Premier League 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="MALAY SPORTS;BOLA;LIGA INGGRIS",Astro Premier League 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl2.m3u8
 #https://events3.liveboxpro.com/event/126.m3u8
 
@@ -2316,7 +2316,7 @@ https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="MALAY SPORTS;SPORTS",Astro Arena Bola 2
 https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="MALAY SPORTS;SPORTS",Astro Grandstand
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="MALAY SPORTS;SPORTS;LIGA INGGRIS",Astro Grandstand
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/grnds.m3u8
 #https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
@@ -2988,4 +2988,5 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv4.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA",SPORT TV 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
+
 
