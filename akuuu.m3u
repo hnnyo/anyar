@@ -6,6 +6,10 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/55.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyre.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Bein 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/be1.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+#EXTINF:-1 tvg-id="telemundo" tvg-logo="" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", Live Only vid
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3051,6 +3055,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
 
 
 
