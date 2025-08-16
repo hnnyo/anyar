@@ -1567,33 +1567,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;useri
 espn-------
 
 #EXTINF:-1 tvg-id="ESPN 1.nl" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORTS;BOLA", ESPN 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://wp1-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=web
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/spn1.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2.nl" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="SPORTS;BOLA", ESPN 2 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-##https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-fhd-avc/NL_000108_019561.mpd?p=web
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/spn2.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3.nl" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="SPORTS;BOLA", ESPN 3 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-##https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/go-dash-fhd-avc/NL_000109_019464.mpd?p=web
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/spn3.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4.nl" tvg-logo="https://i.ibb.co.com/QkzBxW3/espn4.png" group-title="SPORTS;BOLA", ESPN 4 🇳🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://wp2-anp-g05060506-ufa-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/go-dash-fhd-avc/NL_000110_019562.mpd?p=web
-
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/spn4.m3u8
 ---------
 
 EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="1. INDONESIA;TIMNAS",ID: GTV A
@@ -3005,3 +2988,4 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv4.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA",SPORT TV 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
+
