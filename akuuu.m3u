@@ -6,6 +6,8 @@
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premng" group-title="1. INDONESIA", Trans 7 tv
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/tr7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SKY SPORTS PREMIERE LEAGUE De
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
@@ -3034,6 +3036,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv4.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA",SPORT TV 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
+
 
 
 
