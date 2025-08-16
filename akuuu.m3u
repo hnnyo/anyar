@@ -3047,6 +3047,11 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="SPORTS;BOLA;LIGA INGGRIS", NBC 4 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
 
 
 
