@@ -255,10 +255,10 @@ http://user.scalecdn.co:8080/live/15453666/17668852/660925.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS", SuperSport 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS", SuperSport 3
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA", SuperSport 5
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA PERANCIS", SuperSport 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss5.m3u8
 
 
@@ -3044,6 +3044,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv4.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA",SPORT TV 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
+
 
 
 
