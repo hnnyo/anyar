@@ -246,7 +246,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/mji2.m3u8
 EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", Moji c
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/mji3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;BUNDESLIGA", SuperSport 1
+#EXTINF:-1 tvg-logo="" group-title="BOLA;BUNDESLIGA;LIGA INGGRIS", SuperSport 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GolazoNetwork.png" group-title="SPORTS;BOLA;COPPA ITALIA", CBS Sports Golazo
@@ -3044,6 +3044,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv4.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA",SPORT TV 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
+
 
 
 
