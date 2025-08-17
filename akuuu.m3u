@@ -1629,8 +1629,10 @@ espn-------
 #EXTINF:-1 tvg-id="ESPN 1.nl" tvg-logo="https://i.ibb.co.com/GvptYtb/espn1cl.png" group-title="SPORTS;BOLA", ESPN 🇳🇱
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/spn1.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2.nl" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="SPORTS;BOLA", ESPN 2 🇳🇱
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/spn2.m3u8
+#EXTINF:-1 tvg-id="ESPN 2.nl" tvg-logo="https://i.ibb.co.com/K0XRbdr/espn2cl.png" group-title="SPORTS;BOLA;LIGA BELANDA", ESPN 2 🇳🇱
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium386/mono.m3u8|referer=https://webxzplay.cfd/
+#https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/spn2.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3.nl" tvg-logo="https://i.ibb.co.com/LNQtJjG/espn3cl.png" group-title="SPORTS;BOLA", ESPN 3 🇳🇱
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/spn3.m3u8
@@ -3092,6 +3094,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
 
 
 
