@@ -256,7 +256,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GolazoNetwork.png" group-title="SPORTS;BOLA;COPPA ITALIA", CBS Sports Golazo
 http://user.scalecdn.co:8080/live/15453666/17668852/660925.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS", SuperSport 2
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA", SuperSport 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
@@ -3092,6 +3092,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
 
 
 
