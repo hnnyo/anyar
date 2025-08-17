@@ -256,6 +256,9 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GolazoNetwork.png" group-title="SPORTS;BOLA;COPPA ITALIA", CBS Sports Golazo
 http://user.scalecdn.co:8080/live/15453666/17668852/660925.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;LIGA SPANYOL;LIGA PERANCIS", SuperSport 1
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA", SuperSport 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss2.m3u8
 
@@ -2856,6 +2859,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 #EXTINF:-1 group-title="BOLA;LIGA PERANCIS" tvg-id="dubaisp3.ae" tvg-logo="https://encryptatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",BEIN
 https://livetvkilatlive.applecdnstore.com/livetv/2024/US_BEIN_SPORTS/tracks-v1a1/mono.ts.m3u8
+
 
 
 
