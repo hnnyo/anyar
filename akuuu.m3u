@@ -3095,17 +3095,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://rawnt.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="BOLA;LIGA BELANDA",SportDigital Fussball a
-##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8|referer=https://www.vidembed.re/
-https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8|referer=https://webxzplay.cfd/
-
-
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/411539.png" group-title="SPORT;BOLA;LIGA BELANDA",Sportdigital Fussball b
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/411539.png" group-title="SPORT;BOLA;LIGA BELANDA",Sportdigital Fussball
 http://tv.cloudcdn.me/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
 
 
@@ -3120,6 +3110,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 group-title="BOLA;LIGA BELANDA" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",Dubai Sports 3
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
 
 
 
