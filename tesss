@@ -4,6 +4,10 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv1b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Arena 1 Premium Serbia
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ars1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="SPORTS;BOLA", indos 3
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+
+
 #EXTINF:-1 group-title="BRI SUPER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIVE EVENT BRI SL 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
