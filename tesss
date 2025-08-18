@@ -1,2 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_preme.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Sporttv1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv1b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/pireme.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Arena 1 Premium Serbia
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ars1.m3u8.m3u8
