@@ -252,7 +252,7 @@ http://user.scalecdn.co:8080/live/15453666/17668852/660925.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;LIGA SPANYOL;LIGA PERANCIS", SuperSport 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA", SuperSport 2
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA BELANDA;SAUDI ARABIA SUPER CUP", SuperSport 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
@@ -2932,6 +2932,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium643
+
 
 
 
