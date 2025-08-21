@@ -42,10 +42,15 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyre.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Bein 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/be1.m3u8
 
+#EXTINF:-1 tvg-id="telemundo" tvg-logo="" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/telem.m3u8
+
+---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-#EXTINF:-1 tvg-id="telemundo" tvg-logo="" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
+---
+
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", Live Only vid
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1061,12 +1066,16 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
 
 #EXTINF:-1 group-title="SPORTS;BOLA;LIGA INGGRIS" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network 
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/usan.m3u8
+
+
+---
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
+---
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2819,9 +2828,14 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv4.m3u8
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="SPORTS;BOLA;LIGA INGGRIS", NBC 4 🇺🇸
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/nbca.m3u8
+
+----
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+----
+
 
 EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="VDIO;LIGA ITALIA",C TV 1 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2961,6 +2975,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium643
+
 
 
 
