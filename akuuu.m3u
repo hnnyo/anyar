@@ -55,7 +55,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/be1.m3u8
 
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/telem.m3u8
+https://tvpass.org/live/TelemundoEast/hd
+#https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/telem.m3u8
 
 ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3026,6 +3027,7 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium643
 #EXTVLCOPT:http-referrer=https://kleanstorage.store/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/fishy-smell/e25132915cf1e67759051cac80b42275.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImUyNTEzMjkxNWNmMWU2Nzc1OTA1MWNhYzgwYjQyMjc1IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NTg3MzY2NiwiZXhwIjoxNzU1ODg0NDY2fQ.dCQkLSoxcjZzcElDaG9IKl89PTd0bFRyRWZST0pMVF8maDRYSURyITZlMiRv
+
 
 
 
