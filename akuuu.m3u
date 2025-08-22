@@ -1092,7 +1092,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
 
 #EXTINF:-1 group-title="SPORTS;BOLA;LIGA INGGRIS" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network 
-https://tvpass.org/live/USANetworkEast/hd
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/usan.m3u8
+
+#EXTINF:-1 group-title="SPORTS;BOLA;LIGA INGGRIS" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network 2
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/usan2.m3u8
+
+#https://tvpass.org/live/USANetworkEast/hd
 
 ---
 #EXTVLCOPT:http-origin=https://kleanstorage.store
@@ -3074,7 +3079,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=drm 
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="SPORTS;VDIO;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6B
+#EXTINF:-1 group-title="SPORTS;VDIO;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6 B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3084,6 +3089,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=drm 
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+
 
 
 
