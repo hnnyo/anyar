@@ -2947,6 +2947,8 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/US_BEIN_SPORTS/tracks-v1a1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T2.png" group-title="SPORTS;COPPA ITALIA", Tring Sport 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/trg2.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Login/T2.png" group-title="SPORTS;LIGA INGGRIS", Moja
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/mja.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS_SPORTS_NETWORK" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="SPORTS;BOLA;COPPA ITALIA", CBS Sports Network
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
@@ -3089,6 +3091,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=drm 
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+
 
 
 
