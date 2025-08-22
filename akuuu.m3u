@@ -1798,10 +1798,13 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
 
 #EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://i.ibb.co.com/1nn4svg/universosports.png" group-title="SPORTS;BOLA;LIGA INGGRIS", UNIVERSO 🇺🇸
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjExOTNhYzE4OWVhLTgwMGItZmE0NC1kYTMzLWQzMmVkNmI1/master.m3u8
+
+---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
-
+----
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyoxrBby1Ra-6h8Jh08FboUyoejAFytXnelh9rq128mWoGY9JnP3t6__6lhfXG94UIYSIKx78H8oYbqbNuJ9dipee6RrK_YfrZ0_WZsM1mzeH6tluUUelLsX7ctPe9j8M0_YuV5A1IlmH-fbzXKWGXb6tqAg2dk0RzsMd7cBzZsSg1RxyAHv7s1QW9zTOV/s700/TEN%20SPORTS%20HD.png" group-title="SPORTS;BOLA;BUNDESLIGA", TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -2975,6 +2978,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium643
+
 
 
 
