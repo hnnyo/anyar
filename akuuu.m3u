@@ -1091,7 +1091,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
 
 #EXTINF:-1 group-title="SPORTS;BOLA;LIGA INGGRIS" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network 
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/usan.m3u8
+#EXTVLCOPT:http-origin=https://kleanstorage.store
+#EXTVLCOPT:http-referrer=https://kleanstorage.store/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/fishy-smell/prObIniBoc7ltizEGEvUSpLstaClmlbr.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6InByT2JJbmlCb2M3bHRpekVHRXZVU3BMc3RhQ2xtbGJyIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NTg3MzY2NiwiZXhwIjoxNzU1ODg0NDY2fQ.dCQkLSoxcjZzcElDaG9IKl89PTd0bFRyRWZST0pMVF8maDRYSURyITZlMiRv
+#https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/usan.m3u8
 
 
 ---
@@ -3013,6 +3017,11 @@ https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium643
 
 
 
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/skysportnz.png" tvg-id="24.7.Dummy.us" group-title="BOLA;LIGA INGGRIS",Sky Sport 8 NZ
+#EXTVLCOPT:http-origin=https://kleanstorage.store
+#EXTVLCOPT:http-referrer=https://kleanstorage.store/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/fishy-smell/e25132915cf1e67759051cac80b42275.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6ImUyNTEzMjkxNWNmMWU2Nzc1OTA1MWNhYzgwYjQyMjc1IiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImlhdCI6MTc1NTg3MzY2NiwiZXhwIjoxNzU1ODg0NDY2fQ.dCQkLSoxcjZzcElDaG9IKl89PTd0bFRyRWZST0pMVF8maDRYSURyITZlMiRv
 
 
 
