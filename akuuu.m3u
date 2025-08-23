@@ -54,25 +54,12 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19354&type=dash
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19385&type=dash
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/956/49956-SNAPSHOT-l.png" group-title="1. INDONESIA", Trans 7 V+
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyre.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Bein 1
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/be1.m3u8
-
-#EXTINF:-1 tvg-id="telemundo" tvg-logo="" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
-https://tvpass.org/live/TelemundoEast/hd
-#https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/telem.m3u8
-
----
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(kvea)/master.mpd
----
 
 
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", Live Only vid
@@ -3178,6 +3165,7 @@ https://a1xs.vip/700036
 https://a1xs.vip/700037
 #EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.imgur.com/ZlADOPM.png" group-title="SPORTS;BOLA;LIGA INGGRIS" radio="false",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
+
 
 
 
