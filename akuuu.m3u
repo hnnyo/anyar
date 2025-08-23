@@ -2965,7 +2965,7 @@ https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORTS;BOLA",beIN Sports USA
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORTS;BOLA;LIGA PERANCIS",beIN Sports USA
 https://fl1.moveonjoy.com/BEIN_SPORTS/tracks-v1a1/mono.m3u8
 
 
@@ -3175,6 +3175,7 @@ https://a1xs.vip/700036
 https://a1xs.vip/700037
 #EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.imgur.com/ZlADOPM.png" group-title="SPORTS;BOLA;LIGA INGGRIS" radio="false",Sky Sport 8 - Premier League NZ
 https://a1xs.vip/700008
+
 
 
 
