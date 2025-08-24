@@ -7,8 +7,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/beng1.m3u8
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/beng2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
-https://tvpass.org/live/TelemundoEast/hd
-#https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/telm.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/telm.m3u8
 
 #EXTINF:-1  tvg-name="beIN SPORTS Xtra" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" tvg-chno="255" group-title="SPORTS;BOLA;LIGA PERANCIS",beIN SPORTS Xtra
 https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
@@ -3186,6 +3185,7 @@ https://a1xs.vip/700008
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=17938&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
+
 
 
 
