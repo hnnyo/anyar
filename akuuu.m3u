@@ -3190,6 +3190,17 @@ https://a1xs.vip/700008
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
 
 
+#EXTINF:-1 group-title="VDIO;LIGA ITALIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 3 (SERI A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetyps=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=19404&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19404&type=dash
 
 
 
