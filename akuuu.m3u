@@ -2570,17 +2570,14 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/81/ea/db/81eadb64a96acc5e46766e653cbf71b3.jpg" group-title="1. INDONESIA", FASHION MS TV
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
-#EXTINF:0 channel-id="cbs-sports-hq" channel-number="2780" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="CBS Sports HQ" tvc-guide-description="You'll never miss a sports story if you leave this channel on. CBS Sports HQ is live 24/7 and is THE go-to source for up-to-the minute sports coverage, fantasy intel and betting advice. Stream it live every day, wherever you are." group-title="SPORTS;BOLA", CBS Sports HQ
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d541a6c-eca6-11ee-9417-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c8101bd6-94f5-4b0b-84f0-26de54287742&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="golazo-network" channel-number="2830" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Golazo Network" tvc-guide-description="CBS Sports Golazo Network is the year-round, 24/7 home for soccer fans with free matches, highlights, news and analysis." group-title="BOLA;SPORTS", Golazo Network
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d541dfa-eca6-11ee-97a9-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=00564372-d72f-4f86-81b0-c4307026c645&userId=&serverSideAds=true
+#EXTINF:0 channel-id="golazo-network" channel-number="2830" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Golazo Network" tvc-guide-description="CBS Sports Golazo Network is the year-round, 24/7 home for soccer fans with free matches, highlights, news and analysis." group-title="BOLA;SPORTS;LIGA ITALIA", Golazo Network
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
 #EXTINF:0 channel-id="bellator-mma" channel-number="2870" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Bellator MMA" tvc-guide-description="Bellator MMA is home to the most exciting MMA action featuring the top fighters from around the world. Relive all the best events, championship fights, knockouts and submissions from inside the Bellator MMA cage." group-title="MMA/UFC;SPORTS", Bellator MMA
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d541fa8-eca6-11ee-b6f4-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a272842b-ae72-47e4-b929-a19af25a1c21&userId=&serverSideAds=true
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 
 #EXTINF:0 channel-id="glory-kickboxing" channel-number="2900" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="GLORY Kickboxing" tvc-guide-description="With the highest KO rate of any fight sport on television, GLORY Kickboxing is fast-paced, non-stop explosive action from start to finish. There are no takedowns and no wrestling: the fights are all stand-up, all-striking, all the time." group-title="MMA/UFC;SPORTS", GLORY Kickboxing
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d542174-eca6-11ee-b4d0-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=12635d94-4bf2-4b4f-b986-6f6c8317f2fe&userId=&serverSideAds=true
+https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
 
 #EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/seh99xsuzg7opg3/ftv.png" group-title="1. INDONESIA", Fashion TV 2
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
@@ -3190,6 +3187,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
 
 
 
