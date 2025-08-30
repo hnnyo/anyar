@@ -91,11 +91,6 @@ https://spacetv.my.id/index.mpd?id=19406&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19408&type=drm
 https://spacetv.my.id/index.mpd?id=19408&type=dash
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jsosao/Bics/main/picons/us_sky_sports_premiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SKY SPORTS PREMIERE LEAGUE De
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-https://ott.udptv.xyz/stream/skyde/skysportpremierleague/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_sky_sports_premiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Supersport Maximo
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ssmx.m3u8
 
@@ -198,7 +193,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
-EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/downrcti-4.png" group-title="FUTSAL NUSANTARA", FUTSAL NUSANTARA
+EXTINF:-1 tvg-logo="https://cdn.kibrispdr.rg/data/114/downrcti-4.png" group-title="FUTSAL NUSANTARA", FUTSAL NUSANTARA
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://midcache.rctiplus.id/live/futsal.m3u8
 
@@ -210,50 +205,6 @@ https://midcache.rctiplus.id/live/futsal.m3u8
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", INDOSIAR 2 OK
-http://103.180.118.5:9981/stream/channelid/290871490
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", GTV OK
-http://103.180.118.5:9981/stream/channelid/603010024
-#https://hakim45.serv00.net/smarttv.php?id=Gtv
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", RCTI OK
-http://103.180.118.5:9981/stream/channelid/675124063
-#https://hakim45.serv00.net/smarttv.php?id=Rcti
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", INDOSIAR OK
-https://hakim45.serv00.net/smarttv.php?id=Indosiar
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", KOMPAS TV OK
-http://103.180.118.5:9981/stream/channelid/716321720
-#https://hakim45.serv00.net/smarttv.php?id=Kompass
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", ANTV OK
-https://hakim45.serv00.net/smarttv.php?id=Antv
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MNCTV OK
-https://hakim45.serv00.net/smarttv.php?id=Mnctv
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", METRO TV OK
-http://103.180.118.5:9981/stream/channelid/1640891347?profile=pass
-#https://hakim45.serv00.net/smarttv.php?id=metrotv_eko
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", MDTV OK
-https://hakim45.serv00.net/smarttv.php?id=NetTV
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", SCTV OK
-https://hakim45.serv00.net/smarttv.php?id=SCTV
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D;AFF U23", SCTV 2 OK
-http://103.180.118.5:9981/stream/channelid/976701458
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS 7 OK
-https://hakim45.serv00.net/smarttv.php?id=Trans7_eko
-
-EXTINF:-1 tvg-logo="https://i.imcom/01YAHgw.png" group-title="D", TRANS TV OK
-https://hakim45.serv00.net/smarttv.php?id=Transtv
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="SPORTS;BOLA;LIGA INGGRIS", FUBO SPORTS 1
@@ -268,21 +219,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-EXTINF:-1 tvg-logo="" group-title="SPORTS;BOLA;LIGA INGGRIS", Sky Sports Premier League
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sspl.m3u8
-
-EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", VOLI TV
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/vltv.m3u8
-
-EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23", SCTV Dig
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/vtcs.m3u8
-
-EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 2
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos2.m3u8
-
-EXTINF:-1 tvg-logo="" group-title="1. INDONESIA;AFF U23;BRI LIGA 1", Indosiar (bola) 3
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
-
 
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="SPORTS;BOLA", FOX Sports 3
@@ -293,7 +229,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="SPORTS;BOLA", FOX Sports Premium
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commo/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="SPORTS;BOLA", FOX Sports Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1874,11 +1810,6 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 #EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://i.ibb.co.com/1nn4svg/universosports.png" group-title="SPORTS;BOLA;LIGA INGGRIS", UNIVERSO 🇺🇸
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/univ.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://i.ibb.co.com/1nn4svg/universosports.png" group-title="SPORTS;BOLA;LIGA INGGRIS", UNIVERSO b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dd.cfcdn247.space/?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium845%2Fmono.m3u8&data=UmVmZXJlcj1odHRwczovL2xlZnR0b3BsYXkueHl6LyJ8T3JpZ2luPSJodHRwczovL2xlZnR0b3BsYXkueHl6Ig%3D%3D
-
-
 ---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a42669eafed7349499aab7df588b3ccf:0fbff143ebd097060a377e4ade033288
@@ -2862,18 +2793,6 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559|Referer=https://kakotv.com/
 
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS;BOLA;LIGA PERANCIS",Diema Sport Bulgaria
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/live_event_bg_diema_sport/tracks-v1a1/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS;BOLA;LIGA INGGRIS",Sky Sports Main Event
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS;BOLA;LIGA INGGRIS",Sky Sports Premier League
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/tracks-v1a1/mono.ts.m3u8
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS;BOLA;LIGA INGGRIS",SuperSport Premier league
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sspl.m3u8
@@ -2957,10 +2876,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 group-title="BOLA;LIGA BELANDA" tvg-id="dubaisports3.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",Dubai Sports 3
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="BOLA;LIGA PERANCIS" tvg-id="dubaisp3.ae" tvg-logo="https://encryptatic.com/images?q=tbn:ANd9GcS-yMMg--W-E1huPWqUMK6tmj2enzWdGzafdg&s",BEIN
-https://livetvkilatlive.applecdnstore.com/livetv/2024/US_BEIN_SPORTS/tracks-v1a1/mono.ts.m3u8
-
 
 
 
@@ -3247,6 +3162,26 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19375&type=dash
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18796&type=dash
 
 
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png" group-title="SPORTS;BOLA;LIGA PERANCIS",Nova Sport 1
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="SPORTS;BOLA;LIGA PERANCIS",Nova Sport 2
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 
 
