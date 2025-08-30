@@ -3044,7 +3044,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTINF:-1 group-title="SAUDI ARABIA SUPER CUP;SPORTS;LIGA ITALIA" tvg-id="Fox Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png", FOX DEPORTES K
 https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="SPORTS;VDIO"  tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", CTV 1 B
+#EXTINF:-1 group-title="SPORTS;VDIO"  tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", CTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3055,7 +3055,7 @@ https://rr4---sn-8pxuuxa-on.applecdnstore.com/livetv/2024/US_FOX_DEPORTES/tracks
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=6685&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=6685&type=dash
 
-#EXTINF:-1 group-title="SPORTS;VDIO"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2 B
+#EXTINF:-1 group-title="SPORTS;VDIO;LIGA BELANDA"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3066,7 +3066,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=6686&type=drm 
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 group-title="SPORTS;VDIO"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3 B
+#EXTINF:-1 group-title="SPORTS;VDIO"  tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3077,7 +3077,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=drm 
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 group-title="SPORTS;VDIO;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", CTV 5 B
+#EXTINF:-1 group-title="SPORTS;VDIO;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", CTV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3088,7 +3088,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=drm 
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 group-title="SPORTS;VDIO;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6 B
+#EXTINF:-1 group-title="SPORTS;VDIO;LIGA INGGRIS"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3168,7 +3168,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="VDIO;LIGA ITALIA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1 (SERI A)
+#EXTINF:-1 group-title="VDIO;LIGA ITALIA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 1 (SERIE A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetype=application/dash+xml
@@ -3181,7 +3181,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
 
 
-#EXTINF:-1 group-title="VDIO;LIGA ITALIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 3 (SERI A)
+#EXTINF:-1 group-title="VDIO;LIGA ITALIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", CTV 3 (SERIE A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:mimetyps=application/dash+xml
@@ -3218,6 +3218,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18253&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
+
 
 
 
