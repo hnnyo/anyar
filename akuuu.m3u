@@ -2942,8 +2942,8 @@ EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" grou
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/411539.png" group-title="SPORTS;BOLA;LIGA BELANDA",Sportdigital Fussball
-http://tv.cloudcdn.me/live.ts?channelId=125661&deviceMac=00:1A:79:0A:3B:2D
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/411539.png" group-title="SPORTS;BOLA;LIGA BELANDA",Sport Digital Fussball
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/sdf.m3u8
 
 
 
@@ -3218,6 +3218,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18253&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
+
 
 
 
