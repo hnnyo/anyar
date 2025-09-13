@@ -178,6 +178,11 @@ https://spacetv.my.id/index.mpd?id=19353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19385&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19385&type=dash
 
+#EXTINF:-1 group-title="BRI SUPER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIVE EVENT BRI SL 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=dash
 
 ---
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -3300,6 +3305,7 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19543&type=drm
 https://spacetv.my.id/index.mpd?id=19543&type=dash
+
 
 
 
