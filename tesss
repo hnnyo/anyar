@@ -131,4 +131,12 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=19488&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=dash
 
+#EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://raw.githubusercontent.com/mimip-3.jpg" group-title="Sports Vidio", EPL LIVE VID 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19536&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=19536&type=dash
+
 
