@@ -15,10 +15,10 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/beng1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA", Bein Sports 2 English
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/beng2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Canal+ Sport
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Canal+ Sport
 http://185.236.230.212:9981/play/a0bu
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/telm.m3u8
 
 #EXTINF:-1  tvg-name="beIN SPORTS Xtra" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" tvg-chno="255" group-title="SPORTS;BOLA;LIGA PERANCIS",beIN SPORTS Xtra
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/55.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/maiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SuperSport Grandstand
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ssgs.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/piconse.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SuperSport Football
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/piconse.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SuperSport Football
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ssftb.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA", Digi Sport 1
@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/digi3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA", Digi Sport 4
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/digi4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Now Sports 1 PL
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Now Sports 1 PL
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/nowspl1.m3u8
 
 
@@ -2854,7 +2854,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv4.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/maiimipipi22new.png" group-title="SPORTS;BOLA;LIGA ITALIA",SPORT TV 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/sprtv5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="SPORTS;BOLA;LIGA INGGRIS", NBC 4 🇺🇸
+EXTINF:-1 tvg-logo="https://i.ibb.co/pf4SxjC/knbc.png" group-title="SPORTS;BOLA;LIGA INGGRIS", NBC 4 🇺🇸
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/nbcw.m3u8
 
 ----
@@ -3054,19 +3054,19 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=drm 
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA ITALIA", ZNA
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA ITALIA", ZNA
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 1
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 1
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 2
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 3
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 3
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 4
+EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn4.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS;BUNDESLIGA", SKY LIVE 1
@@ -3370,6 +3370,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=dash
+
 
 
 
