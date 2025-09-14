@@ -3120,6 +3120,26 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d9e3024854648dd01714f781c1492c4c:9404541975d298f6787c591d2cc871b1
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
+##EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn1.png" group-title="LIGA BELANDA",ESPN1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e106.hellotherepadawan.org/v5/6p_4TgjYVXpaj0zKNCqbuQ/1756886152/20f9f60269f72fd0dba5fd61cbfd8e69/VuOUy68Bj5kHjhx3r8mqOQ/1756896832/live/vx-origin/nl-espn1_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn2.png" group-title="LIGA BELANDA",ESPN2
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://s2b-c.hellotherepadawan.org:9306/v5/0vzvYgU1V7VZPwEjTVieng/1756886182/21eb375cf969f68b14472a41fdc88044/qZ38KRO9k-knzNlP8kREKQ/1756896862/live/vx-origin/nl-espn2_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn3.png" group-title="LIGA BELANDA",ESPN3
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e102.hellotherepadawan.org/v5/E8LiYvPO8a0j6OKswxGfXQ/1756886208/20f9f60269f72fd0dba5fd61cbfd8e69/7WaPBmMijfg-VTS5u8CrJg/1756896888/live/vx-origin/nl-espn3_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-espn4.png" group-title="LIGA BELANDA",ESPN4
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://e109.hellotherepadawan.org/v5/XB4p6OtNIoNomqEjOm8gaA/1756886255/21eb375cf969f68b14472a41fdc88044/0E1q2WB6Tq4zG4ZoDgtjiw/1756896935/live/vx-origin/nl-espn4_720/chunks.m3u8
+
 
 
 
@@ -3350,6 +3370,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=dash
+
 
 
 
