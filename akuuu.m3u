@@ -33,6 +33,9 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bn6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", 55
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/55.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/maiere.png" group-title="LIGA INGGRIS", Mcity vs MU
+https://lb5.strmd.top/secure/iTBenSOSTPQWWjuxHneqaBBLuFXpgcWr/alpha/stream/manchester-city-vs-manchester-united/1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/maiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SuperSport Grandstand
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ssgs.m3u8
 
@@ -3367,6 +3370,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=dash
+
 
 
 
