@@ -3,10 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontreme.png" group-title="TIMNAS", Indosiar (bola) 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubuser.png" group-title="TIMNAS", Indonesia VS Lebanon
-https://hls.suanzsd6.com/sd-6MvY6XwQnhLfh3YJyu.m3u8?txSecret=75e21e4d403974648480b5934965f757&txTime=68C02E22
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="LIGA BELANDA", KOMPAS TV in
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="1. INDONESIA;LIGA BELANDA", KOMPAS TV in
 https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/png" group-title="SPORTS;BOLA", Bein Sports 1 English
@@ -3370,6 +3367,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=17140&type=dash
+
 
 
 
