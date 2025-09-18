@@ -390,21 +390,21 @@ https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
 https://atemeshield1-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="1. INDONESIA;BOLA;BUNDESLIGA",SPORTSTARS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="1. INDONESIA;BOLA;BUNDESLIGA;AFC Champions League Two",SPORTSTARS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;BUNDESLIGA", SPORTSTARS 2
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;BUNDESLIGA;AFC Champions League Two", SPORTSTARS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;BUNDESLIGA", SPORTSTARS 2 B
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="1. INDONESIA;BOLA;SPORTS;TIMNAS;BUNDESLIGA;AFC Champions League Two", SPORTSTARS 2 B
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
 https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
@@ -426,7 +426,7 @@ https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 ------
 rtmp://103.63.25.253/live/test123
 
-#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="TIMNAS", RCTI+ LIVE ONLY TIMNAS 2
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="TIMNAS;AFC Champions League Two", RCTI+ LIVE ONLY TIMNAS
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 -----
@@ -1072,7 +1072,7 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;BUNDESLIGA;FUTSAL NUSANTARA",Soccer Channel
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;BUNDESLIGA;FUTSAL NUSANTARA;AFC Champions League Two",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1080,7 +1080,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;BUNDESLIGA;FUTSAL NUSANTARA",Soccer Channel B
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="1. INDONESIA;SPORTS;BUNDESLIGA;FUTSAL NUSANTARA;AFC Champions League Two",Soccer Channel B
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
 
@@ -1959,7 +1959,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/229e5579891148208031e5755743e00a/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqu3uVWEYZpgNsRFjsIns7W4IJoco3hqCoJR6PhJXA4wBlKPukSG4a1qPJblt0aELWfuvhwGZWcIZMhxltraI4C2onG9vRiJWwW4i8a04apMc-MfpIQ4ptrOhcAQkXyVPKHeylwbVZAKuS3JxtoJugGvp7Fpr8yL-goijBHOUpPA2BXnztqR4kg961UI9o/s700/INEWS.png" group-title="1. INDONESIA;BUNDESLIGA",iNEWS V+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqu3uVWEYZpgNsRFjsIns7W4IJoco3hqCoJR6PhJXA4wBlKPukSG4a1qPJblt0aELWfuvhwGZWcIZMhxltraI4C2onG9vRiJWwW4i8a04apMc-MfpIQ4ptrOhcAQkXyVPKHeylwbVZAKuS3JxtoJugGvp7Fpr8yL-goijBHOUpPA2BXnztqR4kg961UI9o/s700/INEWS.png" group-title="1. INDONESIA;BUNDESLIGA;AFC Champions League Two",iNEWS V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -3407,6 +3407,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18304&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18303&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18303&type=dash
+
 
 
 
