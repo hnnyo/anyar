@@ -3377,17 +3377,10 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=6299&type=dash
 
 
 #EXTINF:-1 group-title="VDIO;LIGA SPANYOL"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Live Only
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=17323&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=17323&type=dash
-
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17323&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=17323&type=dash
 
 
 #EXTINF:-1 group-title="VDIO;LIGA SPANYOL"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Bein 2 V
@@ -3549,6 +3542,7 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=dash
+
 
 
 
