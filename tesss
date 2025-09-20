@@ -273,3 +273,21 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=dash
 
+#EXTINF:-1 tvg-id="2" tvg-logo="https:/png" group-title="LIGA INGGRIS", EPL LIVE ONLY 1 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19375&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=19375&type=dash
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https:/png" group-title="LIGA INGGRIS", EPL LIVE ONLY 2 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18796&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=18796&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https:/png" group-title="LIGA INGGRIS", EPL LIVE ONLY 3 B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=dash
+
