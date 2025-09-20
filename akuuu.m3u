@@ -2946,8 +2946,12 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T2.png" group-title="SPORTS;COPPA ITALIA", Tring Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T2.png" group-title="SPORTS;LIGA ITALIA", Tring Sport 2
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/trg2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T2.png" group-title="SPORTS;LIGA ITALIA", Tring Sport 1
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/trg1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Login/T2.png" group-title="SPORTS;LIGA INGGRIS;LIGA ITALIA", Moja
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/mja.m3u8
@@ -3476,6 +3480,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
 
 
 
