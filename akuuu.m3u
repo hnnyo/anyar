@@ -36,9 +36,6 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bn6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", 55
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/55.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/maiere.png" group-title="LIGA INGGRIS", Mcity vs MU
-https://lb5.strmd.top/secure/iTBenSOSTPQWWjuxHneqaBBLuFXpgcWr/alpha/stream/manchester-city-vs-manchester-united/1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/maiere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", SuperSport Grandstand
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ssgs.m3u8
 
@@ -3361,6 +3358,20 @@ https://spacetv.my.id/index.mpd?id=19543&type=dash
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=6299&type=dash
 
 
+#EXTINF:-1 group-title="VDIO;LIGA SPANYOL"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Live Only
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=17323&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=17323&type=dash
+
+
+
 #EXTINF:-1 group-title="VDIO;LIGA SPANYOL"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Bein 2 V
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -3480,6 +3491,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
 
 
 
