@@ -3078,19 +3078,19 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=drm 
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA ITALIA", ZNA
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA ITALIA", ZNA
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 1
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn1.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn2.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 3
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn3.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserco_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", ZN 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn4.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS;BUNDESLIGA", SKY LIVE 1
@@ -3473,6 +3473,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
 
 
 
