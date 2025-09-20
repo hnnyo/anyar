@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/beng2.m3u8
 EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Canal+ Sport
 http://185.236.230.212:9981/play/a0bu
 
-EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="SPORTS;BOLA;LIGA INGGRIS", Telemundo
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/telm.m3u8
 
 #EXTINF:-1  tvg-name="beIN SPORTS Xtra" tvg-id="bc932f13c31e542db6e3e6247e7131bc" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" tvg-chno="255" group-title="SPORTS;BOLA;LIGA PERANCIS",beIN SPORTS Xtra
@@ -25,7 +25,10 @@ https://jmp2.uk/stvp-CABA8000043F
 https://jmp2.uk/rok-4f628a666da552d7a9ea9157e079d56b.m3u8
 
 #EXTINF:-1  tvg-id="USBA3400003IP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" tvg-chno="3532" group-title="KNOWLEDGE",Love Nature 4K
-https://jmp2.uk/stvp-USBA3400003IP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#https://jmp2.uk/stvp-USBA3400003IP
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconcons/us_skyere.png" group-title="SPORTS;BOLA;LIGA PERANCIS", Bein 6
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bn6.m3u8
@@ -3473,6 +3476,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
 
 
 
