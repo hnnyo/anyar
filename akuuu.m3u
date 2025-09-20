@@ -3532,11 +3532,11 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17938&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=17938&type=dash
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.co7Ev5vZmitEUDrsLYM&s=10" group-title="LIGA ITALIA", CTV 1 Serie A
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.co7Ev5vZmitEUDrsLYM&s=10" group-title="LIGA ITALIA", CTV 3Serie A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17938&type=drm
-https://playlist123.vercel.app/api/vdo/?stream=live&id=17938&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=19404&type=dash
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.co7Ev5vZmitEUDrsLYM&s=10" group-title="LIGA INGGRIS", CTV 5 C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
@@ -3549,6 +3549,7 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=9183&type=dash
+
 
 
 
