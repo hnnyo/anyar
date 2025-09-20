@@ -336,7 +336,7 @@ https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA INGGRIS;LIGA PERANCIS", SuperSport 3
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA PERANCIS", SuperSport 5
+#EXTINF:-1 tvg-logo="" group-title="BOLA;LIGA PERANCIS;LIGA INGGRIS", SuperSport 5
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/ss5.m3u8
 
 
@@ -3561,6 +3561,7 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=18796&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=dash
+
 
 
 
