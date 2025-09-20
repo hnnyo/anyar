@@ -26,8 +26,14 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19354&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
 https://spacetv.my.id/index.mpd?id=19354&type=dash
 
-#EXTINF:-1 group-title="BRI SUPER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", C TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTINF:-1 group-title="vdio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_onesia.png", CTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetyps=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=9182&type=drm
 https://spacetv.my.id/index.mpd?id=9182&type=dash
