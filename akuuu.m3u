@@ -4,6 +4,8 @@
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontreme.png" group-title="MMA/UFC", ONE Vi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
 https://popmi.my.id/tes.m3u8?id=16890
 
 
@@ -3544,6 +3546,7 @@ https://e101.hellotherepadawan.org/v5/yGmSvYisgXc8TARcwol_FA/1756889526/21eb375c
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e110.hellotherepadawan.org/v5/WT3NG0yGVs0xvHwKi5Bf0w/1756887044/21eb375cf969f68b14472a41fdc88044/0NSwEu6F9_Oam_bbMRtz2Q/1756897724/live/vx-origin/nz-skysport8_720/chunks.m3u8
+
 
 
 
