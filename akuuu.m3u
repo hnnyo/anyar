@@ -3531,21 +3531,9 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=18796&type=dash
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=dash
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889285.png" group-title="LIGA INGGRIS",Sky Sports MainEvent
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://la4.hellotherepadawan.org:9302/v5/rpTofv5bLdOsQL8RKopv6Q/1756889690/21eb375cf969f68b14472a41fdc88044/PXzdSBh9HL8rj6rM6xUHkQ/1756900370/live/lx-origin/uk-skysports-mainevent_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1696317833.png" group-title="LIGA INGGRIS",Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e101.hellotherepadawan.org/v5/yGmSvYisgXc8TARcwol_FA/1756889526/21eb375cf969f68b14472a41fdc88044/v6u8ByhlXWOwghfGPu5yNA/1756900206/live/lx-origin/uk-skysports-epl_720/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport8.png" group-title="LIGA INGGRIS", Sky Sport 8 NZ
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e110.hellotherepadawan.org/v5/WT3NG0yGVs0xvHwKi5Bf0w/1756887044/21eb375cf969f68b14472a41fdc88044/0NSwEu6F9_Oam_bbMRtz2Q/1756897724/live/vx-origin/nz-skysport8_720/chunks.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/NZ8.m3u8gin/nz-skysport8_720/chunks.m3u8
+
 
 
 
