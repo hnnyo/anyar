@@ -858,8 +858,8 @@ https://why.biz.id/Iptv/o2kimia.php?id=nettv-hd
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png", TVONE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
-https://popmi.my.id/tes.m3u8?id=783
-#http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0
+#https://popmi.my.id/tes.m3u8?id=783
 
 ----
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -1026,6 +1026,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="1. INDONESIA", Metro TV HD
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
 https://popmi.my.id/tes.m3u8?id=777
@@ -1500,7 +1505,7 @@ https://e.siar.us/live/dtvi.m3u8
 ------rcti+ new---
 
 
-#EXTINF:0 tvg-id="outdoor" group-title="1. INDONESIA",KOMPAS HD 
+EXTINF:0 tvg-id="outdoor" group-title="1. INDONESIA",KOMPAS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
 https://popmi.my.id/tes.m3u8?id=874
@@ -1522,7 +1527,7 @@ kompas jua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:0 tvg-id="outdoor" group-title="1. INDONESIA",KOMPAS TV yt
+EXTINF:0 tvg-id="outdoor" group-title="1. INDONESIA",KOMPAS TV yt
 https://why.biz.id/Iptv/youtubehlschannelid.php?id=UC5BMIWZe9isJXLZZWPWvBlg
 
 ------------------
@@ -3551,6 +3556,7 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport8.png" group-title="LIGA INGGRIS", Sky Sport 8 NZ
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/NZ8.m3u8
+
 
 
 
