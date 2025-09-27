@@ -3532,7 +3532,8 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=dash
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport8.png" group-title="LIGA INGGRIS", Sky Sport 8 NZ
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/NZ8.m3u8gin/nz-skysport8_720/chunks.m3u8
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/NZ8.m3u8
+
 
 
 
