@@ -3454,6 +3454,35 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=18304&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18303&type=drm
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=18303&type=dash
 
+#EXTINF:-1 group-title="LIGA CHAMPIONS"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", LIVE ONLY 1 vdi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=17883&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=17883&type=dash
+
+#EXTINF:-1 group-title="LIGA CHAMPIONS"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", LIVE ONLY 2 vdi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18302&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=18302&type=dash
+
+#EXTINF:-1 group-title="LIGA CHAMPIONS"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", LIVE ONLY 3 vdi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18305&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=18305&type=dash
+
+#EXTINF:-1 group-title="LIGA CHAMPIONS"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", LIVE ONLY 4 vdi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18304&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=18304&type=dash
+
+#EXTINF:-1 group-title="LIGA CHAMPIONS"  tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", LIVE ONLY 5 vdi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=18303&type=drm
+https://playlist123.vercel.app/api/vdo/?stream=live&id=18303&type=dash
 
 _---------------------
 
@@ -3551,6 +3580,7 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport8.png" group-title="LIGA INGGRIS", Sky Sport 8 NZ
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/NZ8.m3u8
+
 
 
 
