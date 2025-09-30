@@ -852,11 +852,14 @@ https://why.biz.id/Iptv/o2kimia.php?id=nettv-hd
 
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png", TVONE HD 
+#EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
+https://popmi.my.id/tes.m3u8?id=783
+
+---
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0
-#https://popmi.my.id/tes.m3u8?id=783
-
+#
 ----
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=tvone
@@ -3584,6 +3587,7 @@ https://playlist123.vercel.app/api/vdo/?stream=live&id=19536&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nz-skysport8.png" group-title="LIGA INGGRIS", Sky Sport 8 NZ
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/NZ8.m3u8
+
 
 
 
