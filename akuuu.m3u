@@ -535,10 +535,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH/transtv/transtv-avc1_2500000=7-32846
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
+---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 #REFRESH="1"
-#EXTINF:-10.0,  tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="1. INDONESIA " tvg-id="DuniaLain.id" tvg-name="Dunia Lain",Dunia Lain
+---
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JfO3N" group-title="1. INDONESIA " tvg-id="DuniaLain.id" tvg-name="Dunia Lain",Dunia Lain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://dl.dropboxrp51aouwircr4f/image%281%29.jpeg", Antara TV
@@ -718,10 +722,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 group-title="1. INDONESIA"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV.
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/ANTV-avc1_2500000=6-3282969640000000.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
-#https://streaming.indihometv.com/atm/DASH/ANTV/ANTV-avc1_2500000=6-3282969640000000.mpd
-#https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-#https://perkoro.suwalbolong.workers.dev/index.m3u8?id=antv&key=true
+
 
 
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/20231022_172743-56CYxmeU.png?download=true" group-title="DAERAH", Prima tv
@@ -743,33 +744,18 @@ https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index
 #KODIPROP:inputstream.adaptive.license_key=3084383b39c3452b81ee0535bd381dee:bf25afb0796a4a73f127f056c206800d
 https://sunna-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.mpd
 
-#EXTINF:-1, group-title="RELIGI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_XY5BUzssBD9s2U7AU4Aw4R_PiY1dh_usVU6y0QU2OSUiF8tbj0TUghlQo_oVD0rMJdq05-Ipo3-zlGKTp5ajJKgvTqTNxyWCbYEvUU9G09mUKgHwu255mjWFyPYxug8IK1QESMmd8XY9wBjmHtNY-OsBBqdRfKBBgTpesutWbj0ZZrcuhtl79c_rqTW/s700/JOM%20NGAJI.png",JOM NGAJI
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="http/images.indihometv.com/logo_antvnew_small.png", JOM NGAJI
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjda3C8bYLdwfLRjxfHp1JHvcvVZviCVy6vX5iLz6pS4FIsunWee-ajwHB8xTRgB9WLXRJM0JpUPZhy97_TOHnksUsDrumkLc_FIKMXrfnnVI7H_02c5Gl7J1CP68IT1D5Q_4iNUNxmd5WEMgtr6bSGnnOJX-sq7crTjknytFGvuWSL88Vt_fLZWm9eLxDm/s700/DOA%20OFFICIAL.png" group-title="RELIGI" ,DOA OFFICIAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://piracy-dev.tech/dev/youtube/live/UCiQFGabMZQHqKcd0xDSQ8MA
-#https://yt-hls-get-v2.x0.to/youtube/?channel=UCiQFGabMZQHqKcd0xDSQ8MA
-#https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCiQFGabMZQHqKcd0xDSQ8MA
-#https://ythls-v2.onrender.com/channel/UCiQFGabMZQHqKcd0xDSQ8MA.m3u8
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCiQFGabMZQHqKcd0xDSQ8MA
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFw6yo_V7Uwjqq8LhVNGspqcRC7nerlbj2smg1KGh9kcXtzzP6Whc5yyURrAxYXXMswfpDdwh_6_rH54MAZVoDXWoF1mOfc58VTpoAc8SmV0e254bmWQ3CRuA7vu2YvcT_HGbwV7mIJtV609Xp1lv-76MuCraGL7_BNkSuF1XDaOnV7e-YPutP9ldTXVdW/s700/ZIKIR.png" group-title="RELIGI" ,DZIKIR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCBN9NUto3-HXOh8YlQRjN6g
-#https://sepongakumas.combilolo.workers.dev/?id=UCBN9NUto3-HXOh8YlQRjN6g&type=ytlivechannel
-#https://yt-hls-get-v2.x0.to/youtube/?channel=UCBN9NUto3-HXOh8YlQRjN6g
-#https://ythls.kekikakademi.org/youtube/channel/UCBN9NUto3-HXOh8YlQRjN6g.m3u8
 https://rocket-tv.online/redtube/randomyt.m3u8?id=UCBN9NUto3-HXOh8YlQRjN6g
 
-#EXTINF:-1, group-title="Mr. Bean" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEistHWuEE4nGXNYZeatkYnWEDnrsC88p-FX1BLURGFWL3ck47yuYlYgUTzuA-US3g2M58mLRkdZOl3ENULAj1QkS6oWNORzNORQ5cWZJbl4TixNR2cvHzSsk93_jH36aoI1JzAARhkbX1usWs4VWqTyYhJP3aqQY1CpRmgnoDaKpiN7kcA1pMrHROrnDBaF/s700/MR%20BEAN%20CLASSIC.png",MR. BEAN CLASSIC
-#https://mantul.biz.id:443/inetwork/gayanet12/21896.ts
-#https://dl.dropboxusercontent.com/scl/fi/t35mjfro6n1qe7sabxslr/24-7-mr-bean-animated.m3u8?rlkey=bchy9i95g7meddfqpr3cdajef&st=h0guoi76
-#http://wanicelife.com:8880/6mc250009/28887461/60910
+#EXTINF:-1 group-title="Mr. Bean"  tvg-logo="https://imametv.com/logo_antvnew_small.png",Mr. Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1, group-title="ANAK-ANAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj59wGJTIsK3G5kctY5dpDlnBVFkHSb8aXnB_fNWLQqD_nzOlD4n239T2MNDH-wj-LcQC941UfuoHo63fAqhopeu9aM8joUQV98jtZqJ0Zvyt48yYzc4ccU-zREBrkvGiGbuYgUi04v1cPLqV2qNn5xq9mze-eSPe-3kOLY2pBp_AWwuXicpjoz8xI1TLDc/s700/TOM%20&%20JERRY.png",TOM & JERRY
-#https://mantul.biz.id:443/inetwork/gayanet12/20397.ts
 http://wanicelife.com:8880/6mc250009/28887461/60878
 
 
@@ -3494,6 +3480,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
