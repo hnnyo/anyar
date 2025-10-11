@@ -451,7 +451,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/114/download-logo-rcti-4.png" group-title="TIMNAS", RCTI+ SPORT
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://midcache.rctiplus.id/hdlive2/saudivsina_720p/index.m3u8
+https://midcache.rctiplus.id/hdlive2/irakvsina_720p/index.m3u8
 
 ----
 https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
@@ -3494,6 +3494,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
