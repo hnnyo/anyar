@@ -370,6 +370,13 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=17938&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 
 #EXTINF:-1 group-title="pegadaian"  tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", pegadaian 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=19543&type=drm
+https://vidd.semar.my.id/vidreq.php?id=19543&type=dash
+---
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -379,6 +386,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=drm 
 https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=dash
+----
+
 
 #EXTINF:-1 group-title="VOLI TURKI" tvg-logo="https://uploadorg/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIVE EVENT VOLI TURKI
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
