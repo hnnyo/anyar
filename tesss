@@ -532,7 +532,11 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19687&type=dash
 
 
 
-
-
+#EXTINF:-1 group-title="SUPER LEAGUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIVE EVENT BRI SL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=19354&type=drm
+https://vidd.semar.my.id/vidreq.php?id=19354&type=dash
 
 
