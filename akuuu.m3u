@@ -3273,7 +3273,6 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19375&type=dash
 ---
 
 #EXTINF:-1 group-title="VDIO;LIGA INGGRIS"  tvg-logo="httic.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", EPL Live Vid 2
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -3612,6 +3611,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
