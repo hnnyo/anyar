@@ -1,9 +1,11 @@
 #EXTM3U billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="BOLA;SPORTS", TV Chosun
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
+#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_99.png" group-title="SPORTS;1. INDONESIA;BUNDESLIGA",SPORTSTARS 3
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", TIMNAS U17 Wanita
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1243,43 +1245,20 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://adsports.ae/images/no_img.png",Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
-
-
-
-EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg.png" group-title="SPORTS;BOLA" , DIEMA SPORT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium465/mono.m3u8
-
-EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="SPORTS;BOLA" , DIEMA SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium466/mono.m3u8
-
-EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diema_sport_bg_2_hd.png" group-title="SPORTS;BOLA" , DIEMA SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.iosplayer.ru/wind/premium467/mono.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/FsfkM27D/20230719-171756.png" group-title="SPORTS;BOLA;LIGA ITALIA;LIGA CHAMPIONS",Prima Sport 1 
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport1.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://i.postimg.cc/Y2v174P6/20230719-171833.png" group-title="SPORTS;BOLA;LIGA ITALIA;LIGA CHAMPIONS",Prima Sport 2 
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://i.postimg.cc/FsfkM27D/20230719-171756.png" group-title="SPORTS;BOLA;LIGA ITALIA;LIGA CHAMPIONS",Prima Sport 2
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport2.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
 #EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://i.postimg.cc/qRhgPK7g/20230719-171858.png" group-title="SPORTS;BOLA;LIGA ITALIA;LIGA CHAMPIONS",Prima Sport 3 
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport3.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://i.postimg.cc/gcyGns1m/20230719-171921.png" group-title="SPORTS;BOLA;LIGA ITALIA",Prima Sport 4 
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport4.m3u8
+
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-id="KIX - [Channel 161].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3609,6 +3588,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
