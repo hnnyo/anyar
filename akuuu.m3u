@@ -12,6 +12,8 @@ https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19335&type=drm
 https://spacetv.my.id/index.mpd?id=19335&type=dash
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="1. INDONESIAA", TRANS 7 L
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/tr7.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontreme.png" group-title="MMA/UFC", ONE Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3593,6 +3595,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
