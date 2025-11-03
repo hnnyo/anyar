@@ -1,0 +1,4 @@
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=K04kcibSeHLigVI9qB74K-H6-iOdf0XkeHKydXCaoUYc5Fm1FHkbjc4dCBu3kPqqrlbQvdlFbZ6fwEEO4ZU6lm6o1giiAhevLZ2bMuxV-p0=
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_46_22_c6f57953-174b-471e-9c00-16f86a00bf67/PROD_CMAF_CENC/index-dash.mpd
