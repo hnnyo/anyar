@@ -894,8 +894,7 @@ https://why.biz.id/Iptv/o2kimia.php?id=tvone
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg", K+ HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png", ROCK ACTION HD 
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
@@ -3602,6 +3601,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
