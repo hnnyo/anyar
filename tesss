@@ -560,3 +560,7 @@ https://vidd.semar.my.id/vidreq.php?id=19354&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=195354&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/picons/us_skyere.png" group-title="live", J V M
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11efd5ba75f380d88954fdfdb00cbfd:842a4414958bd27bdd9ebbdc120ff6f8
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_44_36_1ffc4dc1-98a7-49fa-8465-f8ad64507018/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1762175700
