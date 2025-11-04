@@ -19,7 +19,11 @@ https://spacetv.my.id/index.mpd?id=19335&type=dash
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/cons/png" group-title="PIALA DUNIA U17", BRAZIL VS HONDURAS 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=K04kcibSeHLigVI9qB74K-H6-iOdf0XkeHKydXCaoUYc5Fm1FHkbjc4dCBu3kPqqrlbQvdlFbZ6fwEEO4ZU6lm6o1giiAhevLZ2bMuxV-p0=
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_49_51_0798d42f-c4cc-4518-97e1-beaa6984225f/PROD_CMAF_CENC/index-dash.mpd
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontreme.png" group-title="MMA/UFC", ONE Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3601,6 +3605,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
