@@ -29,7 +29,7 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontreme.png" group-title="1. INDONESIA", Indosiar Vi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user agent=VidioPlayer/4.3.0-WITH_ADS
-https://popmi.my.id/tes.m3u8?id=16890
+https://popmi.my.id/tes.m3u8?id=205
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubuserconte/Bics/main/piconse.png" group-title="SPORTS;BOLA;LIGA PERANCIS", Arena 2
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/arn2.m3u8
@@ -3609,6 +3609,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
