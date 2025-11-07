@@ -545,7 +545,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-328
 
 #EXTINF:-1 tvg-logo="https://images." group-title="1. INDONESIA", Trans 7 indi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko)
-https://cdn10jtedge.indihometv.com/atm/DASH/trans7/trans7-avc1_2500000=7-3277707030000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/trans7-avc1_2500000=7-3284600346800000.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/trans7/trans7-avc1_2500000=7-3277707030000000.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 #https://cdn12jtedge.indihometv.com/atm/DASH/trans7/trans7-avc1_2500000=7-3277707030000000.mpd
 
@@ -3604,6 +3605,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
