@@ -925,7 +925,7 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="1. INDONESIA",Indosiar
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3284600346800000.mpd
 
 ----
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -3605,6 +3605,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
