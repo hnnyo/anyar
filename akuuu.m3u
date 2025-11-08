@@ -846,7 +846,10 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://lokerbumn.com/wp-content/uploads//NET-TV.jpg", MDTV
-https://cdn10jtedge.indihometv.com/atm/DASH/net/net-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#https://cdn10jtedge.indihometv.com/atm/DASH/net/net-avc1_2500000=7-3277707030000000.mpd
 
 ---
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -3609,6 +3612,7 @@ EXTINF:-1 group-title="TIMNAS" tvg-logo="https://static.com/images?q=tbn:ANd9GcR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=drm
 https://playlist123.vercel.app/api/vdo/?stream=live&id=19679&type=dash
+
 
 
 
