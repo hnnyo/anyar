@@ -3662,6 +3662,18 @@ http://190.60.37.118:4000/play/a09j
 
 
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Peacock 1
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck1.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Peacock 2
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck2.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Peacock 3
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck3.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Peacock 4
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck4.m3u8
+
 
 
 
