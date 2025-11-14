@@ -1072,7 +1072,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="1. INDONESIA", Metro TV HD
-https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/METRO_TV-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/METRO_TV-avc1_2500000=7-3277707030000000.mpd
 
 --
 
@@ -3682,6 +3685,7 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck3.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Peacock 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck4.m3u8
+
 
 
 
