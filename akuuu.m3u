@@ -1657,15 +1657,9 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=Indosiar
 
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg" tvg-id="38" , ANIPLUS HD
-EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 
@@ -3692,6 +3686,7 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck3.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Peacock 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck4.m3u8
+
 
 
 
