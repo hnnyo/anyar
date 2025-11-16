@@ -695,7 +695,8 @@ rtmp:///live/test123
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://i.ibb.co.com/PgFHMBw/20250101-164251.jpg",Berita Satu
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
 
 ---
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3700,6 +3701,7 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck3.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Peacock 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck4.m3u8
+
 
 
 
