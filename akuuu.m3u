@@ -2766,6 +2766,10 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-6-HD/manifest.mpd
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
 
+#EXTINF:-1 group-title="BULU TANGKIS" tvg-logo="htnet/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", Bulu Tangkis OK
+https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029097901_fhd.m3u8
+
+
 #EXTINF:-1 group-title="BULU TANGKIS" tvg-logo="htnet/library/upload/21/2025/08/996x664/voli-2_4c6c6bc.jpg", Bulu Tangkis 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3691,6 +3695,7 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck3.m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://static.com/images?q=tbn:ANd9GcRhR830Tq5gZlof3XkdfvCuBWLeXDXbNiMurg&s", Peacock 4
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/pck4.m3u8
+
 
 
 
